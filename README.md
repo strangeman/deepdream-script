@@ -1,6 +1,8 @@
 # deepdream-script
 Script for deepdreaming
 
+Put your files to ./src directory.
+
 Useful links:
 - https://github.com/google/deepdream/blob/master/dream.ipynb
 - http://caffe.berkeleyvision.org/installation.html
